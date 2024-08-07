@@ -1,2 +1,2 @@
-# rich-imoet
+# rich
 nyoba kak
